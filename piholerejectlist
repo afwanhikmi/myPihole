@@ -61,3 +61,19 @@ supjav$
 (\.|^)googleadservices\.net$
 (\.|^)applovin\.com$
 (\.|^)ads\..*$
+(^|\.)temu(ad)?\.com$
+(^|\.)temu-cdn\.com$
+(^|\.)temuapp\.com$
+(^|\.) temu-update\.com$
+(^|\.) temu-network\.com$
+^.+\.pinduoduo\.com$
+^.+\.yangkeduo\.com$
+^.+\.pinduoduo\.net$
+(^|\.)adashx\.ut\.lazada\.com$
+(^|\.)amdc\.lazada\.com$
+(^|\.)api-xspace\.lazada\.com$
+(^|\.)arup\.m\.lazada\.com$
+(^|\.)eco-device\.lazada\.com$
+(^|\.)gsp\.lazada\.com$
+(^|\.)uac\.lazada\.com$
+(^|\.)ut\.lazada\.com$
